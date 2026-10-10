@@ -1,4 +1,4 @@
-name: Build LightNet Tarkwa APK
+name: LightNet Android APK Builder
 
 on:
   workflow_dispatch:
